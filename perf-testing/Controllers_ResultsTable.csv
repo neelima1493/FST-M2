@@ -1,0 +1,111 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1622520269628,659,Google,200,OK,Thread Group 1-1,text,true,,16417,228,1,1,http://www.google.com/,246,0,148
+1622520269628,246,Google-0,301,Moved Permanently,Thread Group 1-1,text,true,,528,112,1,1,http://google.com/,246,0,148
+1622520269894,393,Google-1,200,OK,Thread Group 1-1,text,true,,15889,116,1,1,http://www.google.com/,364,0,224
+1622520270287,256,Google,200,OK,Thread Group 1-1,text,true,,16464,228,1,1,http://www.google.com/,104,0,0
+1622520270287,104,Google-0,301,Moved Permanently,Thread Group 1-1,text,true,,528,112,1,1,http://google.com/,104,0,0
+1622520270391,152,Google-1,200,OK,Thread Group 1-1,text,true,,15936,116,1,1,http://www.google.com/,152,0,0
+1622520270543,244,Google,200,OK,Thread Group 1-1,text,true,,16481,228,1,1,http://www.google.com/,100,0,0
+1622520270543,100,Google-0,301,Moved Permanently,Thread Group 1-1,text,true,,528,112,1,1,http://google.com/,100,0,0
+1622520270643,144,Google-1,200,OK,Thread Group 1-1,text,true,,15953,116,1,1,http://www.google.com/,139,0,0
+1622520270787,240,Google,200,OK,Thread Group 1-1,text,true,,16501,228,1,1,http://www.google.com/,95,0,0
+1622520270787,95,Google-0,301,Moved Permanently,Thread Group 1-1,text,true,,528,112,1,1,http://google.com/,95,0,0
+1622520270883,144,Google-1,200,OK,Thread Group 1-1,text,true,,15973,116,1,1,http://www.google.com/,136,0,0
+1622520271028,246,Google,200,OK,Thread Group 1-1,text,true,,16501,228,1,1,http://www.google.com/,96,0,0
+1622520271028,96,Google-0,301,Moved Permanently,Thread Group 1-1,text,true,,528,112,1,1,http://google.com/,96,0,0
+1622520271125,149,Google-1,200,OK,Thread Group 1-1,text,true,,15973,116,1,1,http://www.google.com/,142,0,0
+1622520271274,241,Google,200,OK,Thread Group 1-1,text,true,,16460,228,1,1,http://www.google.com/,98,0,0
+1622520271274,98,Google-0,301,Moved Permanently,Thread Group 1-1,text,true,,528,112,1,1,http://google.com/,98,0,0
+1622520271372,143,Google-1,200,OK,Thread Group 1-1,text,true,,15932,116,1,1,http://www.google.com/,136,0,0
+1622520271515,235,Google,200,OK,Thread Group 1-1,text,true,,16464,228,1,1,http://www.google.com/,96,0,0
+1622520271515,96,Google-0,301,Moved Permanently,Thread Group 1-1,text,true,,528,112,1,1,http://google.com/,96,0,0
+1622520271611,139,Google-1,200,OK,Thread Group 1-1,text,true,,15936,116,1,1,http://www.google.com/,133,0,0
+1622520271751,243,Google,200,OK,Thread Group 1-1,text,true,,16490,228,1,1,http://www.google.com/,96,0,0
+1622520271751,96,Google-0,301,Moved Permanently,Thread Group 1-1,text,true,,528,112,1,1,http://google.com/,96,0,0
+1622520271847,147,Google-1,200,OK,Thread Group 1-1,text,true,,15962,116,1,1,http://www.google.com/,144,0,0
+1622520271995,237,Google,200,OK,Thread Group 1-1,text,true,,16471,228,1,1,http://www.google.com/,98,0,0
+1622520271995,98,Google-0,301,Moved Permanently,Thread Group 1-1,text,true,,528,112,1,1,http://google.com/,98,0,0
+1622520272093,139,Google-1,200,OK,Thread Group 1-1,text,true,,15943,116,1,1,http://www.google.com/,133,0,0
+1622520272233,251,Google,200,OK,Thread Group 1-1,text,true,,16481,228,1,1,http://www.google.com/,96,0,0
+1622520272233,96,Google-0,301,Moved Permanently,Thread Group 1-1,text,true,,528,112,1,1,http://google.com/,96,0,0
+1622520272329,155,Google-1,200,OK,Thread Group 1-1,text,true,,15953,116,1,1,http://www.google.com/,141,0,0
+1622520272486,2304,Yahoo,200,OK,Thread Group 1-1,text,true,,155507,337,1,1,https://www.yahoo.com/,597,0,312
+1622520272486,597,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,597,0,312
+1622520273085,823,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,823,0,571
+1622520273909,881,Yahoo-2,200,OK,Thread Group 1-1,text,true,,154685,115,1,1,https://www.yahoo.com/,688,0,217
+1622520274790,1292,Yahoo,200,OK,Thread Group 1-1,text,true,,153483,337,1,1,https://www.yahoo.com/,313,0,0
+1622520274790,313,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,313,0,0
+1622520275103,250,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,250,0,0
+1622520275353,729,Yahoo-2,200,OK,Thread Group 1-1,text,true,,152661,115,1,1,https://www.yahoo.com/,537,0,0
+1622520276082,1182,Yahoo,200,OK,Thread Group 1-1,text,true,,157642,337,1,1,https://www.yahoo.com/,252,0,0
+1622520276082,252,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,252,0,0
+1622520276334,247,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,247,0,0
+1622520276581,683,Yahoo-2,200,OK,Thread Group 1-1,text,true,,156820,115,1,1,https://www.yahoo.com/,491,0,0
+1622520277265,1114,Yahoo,200,OK,Thread Group 1-1,text,true,,157648,337,1,1,https://www.yahoo.com/,252,0,0
+1622520277265,252,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,252,0,0
+1622520277518,247,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,247,0,0
+1622520277766,613,Yahoo-2,200,OK,Thread Group 1-1,text,true,,156826,115,1,1,https://www.yahoo.com/,424,0,0
+1622520278380,2590,Yahoo,200,OK,Thread Group 1-1,text,true,,102686,337,1,1,https://www.yahoo.com/,252,0,0
+1622520278380,252,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,252,0,0
+1622520278632,248,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,248,0,0
+1622520278881,2089,Yahoo-2,200,OK,Thread Group 1-1,text,true,,101864,115,1,1,https://www.yahoo.com/,1908,0,0
+1622520280971,1187,Yahoo,200,OK,Thread Group 1-1,text,true,,158103,337,1,1,https://www.yahoo.com/,273,0,0
+1622520280971,273,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,273,0,0
+1622520281244,247,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,247,0,0
+1622520281491,667,Yahoo-2,200,OK,Thread Group 1-1,text,true,,157281,115,1,1,https://www.yahoo.com/,480,0,0
+1622520282159,1159,Yahoo,200,OK,Thread Group 1-1,text,true,,155534,337,1,1,https://www.yahoo.com/,253,0,0
+1622520282159,253,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,253,0,0
+1622520282413,247,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,247,0,0
+1622520282660,658,Yahoo-2,200,OK,Thread Group 1-1,text,true,,154712,115,1,1,https://www.yahoo.com/,468,0,0
+1622520283318,1551,Yahoo,200,OK,Thread Group 1-1,text,true,,155426,337,1,1,https://www.yahoo.com/,253,0,0
+1622520283318,253,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,253,0,0
+1622520283572,248,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,247,0,0
+1622520283820,1049,Yahoo-2,200,OK,Thread Group 1-1,text,true,,154604,115,1,1,https://www.yahoo.com/,498,0,0
+1622520284870,1207,Yahoo,200,OK,Thread Group 1-1,text,true,,157919,337,1,1,https://www.yahoo.com/,347,0,0
+1622520284870,347,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,347,0,0
+1622520285218,248,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,248,0,0
+1622520285466,611,Yahoo-2,200,OK,Thread Group 1-1,text,true,,157097,115,1,1,https://www.yahoo.com/,427,0,0
+1622520286078,1045,Yahoo,200,OK,Thread Group 1-1,text,true,,157722,337,1,1,https://www.yahoo.com/,252,0,0
+1622520286078,252,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,252,0,0
+1622520286330,246,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,246,0,0
+1622520286576,547,Yahoo-2,200,OK,Thread Group 1-1,text,true,,156900,115,1,1,https://www.yahoo.com/,417,0,0
+1622520287123,1173,Yahoo,200,OK,Thread Group 1-1,text,true,,155502,337,1,1,https://www.yahoo.com/,251,0,0
+1622520287123,251,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,251,0,0
+1622520287375,247,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,247,0,0
+1622520287622,674,Yahoo-2,200,OK,Thread Group 1-1,text,true,,154680,115,1,1,https://www.yahoo.com/,487,0,0
+1622520288297,1168,Yahoo,200,OK,Thread Group 1-1,text,true,,157655,337,1,1,https://www.yahoo.com/,256,0,0
+1622520288297,256,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,256,0,0
+1622520288553,246,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,246,0,0
+1622520288799,666,Yahoo-2,200,OK,Thread Group 1-1,text,true,,156833,115,1,1,https://www.yahoo.com/,468,0,0
+1622520289465,1198,Yahoo,200,OK,Thread Group 1-1,text,true,,159124,337,1,1,https://www.yahoo.com/,251,0,0
+1622520289465,251,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,251,0,0
+1622520289716,246,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,246,0,0
+1622520289963,700,Yahoo-2,200,OK,Thread Group 1-1,text,true,,158302,115,1,1,https://www.yahoo.com/,510,0,0
+1622520290664,1180,Yahoo,200,OK,Thread Group 1-1,text,true,,157643,337,1,1,https://www.yahoo.com/,252,0,0
+1622520290664,252,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,252,0,0
+1622520290916,248,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,248,0,0
+1622520291164,680,Yahoo-2,200,OK,Thread Group 1-1,text,true,,156821,115,1,1,https://www.yahoo.com/,492,0,0
+1622520291845,1362,Yahoo,200,OK,Thread Group 1-1,text,true,,157751,337,1,1,https://www.yahoo.com/,262,0,0
+1622520291845,262,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,262,0,0
+1622520292107,252,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,252,0,0
+1622520292359,848,Yahoo-2,200,OK,Thread Group 1-1,text,true,,156929,115,1,1,https://www.yahoo.com/,655,0,0
+1622520293207,1197,Yahoo,200,OK,Thread Group 1-1,text,true,,155556,337,1,1,https://www.yahoo.com/,251,0,0
+1622520293207,251,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,251,0,0
+1622520293458,249,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,249,0,0
+1622520293707,697,Yahoo-2,200,OK,Thread Group 1-1,text,true,,154734,115,1,1,https://www.yahoo.com/,506,0,0
+1622520294404,1303,Yahoo,200,OK,Thread Group 1-1,text,true,,102687,337,1,1,https://www.yahoo.com/,256,0,0
+1622520294404,256,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,256,0,0
+1622520294660,247,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,247,0,0
+1622520294908,799,Yahoo-2,200,OK,Thread Group 1-1,text,true,,101865,115,1,1,https://www.yahoo.com/,616,0,0
+1622520295708,1214,Yahoo,200,OK,Thread Group 1-1,text,true,,155640,337,1,1,https://www.yahoo.com/,252,0,0
+1622520295708,252,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,252,0,0
+1622520295960,247,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,247,0,0
+1622520296207,715,Yahoo-2,200,OK,Thread Group 1-1,text,true,,154818,115,1,1,https://www.yahoo.com/,516,0,0
+1622520296923,1149,Yahoo,200,OK,Thread Group 1-1,text,true,,157646,337,1,1,https://www.yahoo.com/,250,0,0
+1622520296923,250,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,250,0,0
+1622520297173,267,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,267,0,0
+1622520297441,631,Yahoo-2,200,OK,Thread Group 1-1,text,true,,156824,115,1,1,https://www.yahoo.com/,431,0,0
+1622520298073,1166,Yahoo,200,OK,Thread Group 1-1,text,true,,157660,337,1,1,https://www.yahoo.com/,252,0,0
+1622520298073,252,Yahoo-0,301,Moved Permanently,Thread Group 1-1,text,true,,276,111,1,1,http://yahoo.com/,252,0,0
+1622520298326,245,Yahoo-1,301,Moved Permanently,Thread Group 1-1,text,true,,546,111,1,1,https://yahoo.com/,245,0,0
+1622520298572,667,Yahoo-2,200,OK,Thread Group 1-1,text,true,,156838,115,1,1,https://www.yahoo.com/,477,0,0

@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1622521399231,2542,HTTP Request for Yahoo,200,OK,First Test Thread Group 1-1,text,true,,157762,337,5,5,https://www.yahoo.com/,674,0,365
+1622521399231,674,HTTP Request for Yahoo-0,301,Moved Permanently,First Test Thread Group 1-1,text,true,,276,111,5,5,http://yahoo.com/,674,0,365
+1622521399906,947,HTTP Request for Yahoo-1,301,Moved Permanently,First Test Thread Group 1-1,text,true,,546,111,5,5,https://yahoo.com/,947,0,641
+1622521400854,919,HTTP Request for Yahoo-2,200,OK,First Test Thread Group 1-1,text,true,,156940,115,5,5,https://www.yahoo.com/,731,0,228
+1622521399360,2458,HTTP Request for Yahoo,200,OK,First Test Thread Group 1-3,text,true,,157523,337,5,5,https://www.yahoo.com/,607,0,302
+1622521399360,607,HTTP Request for Yahoo-0,301,Moved Permanently,First Test Thread Group 1-3,text,true,,276,111,5,5,http://yahoo.com/,607,0,302
+1622521399968,932,HTTP Request for Yahoo-1,301,Moved Permanently,First Test Thread Group 1-3,text,true,,546,111,5,5,https://yahoo.com/,932,0,627
+1622521400901,917,HTTP Request for Yahoo-2,200,OK,First Test Thread Group 1-3,text,true,,156701,115,5,5,https://www.yahoo.com/,729,0,188
+1622521399554,2420,HTTP Request for Yahoo,200,OK,First Test Thread Group 1-4,text,true,,157525,337,5,5,https://www.yahoo.com/,625,0,320
+1622521399554,625,HTTP Request for Yahoo-0,301,Moved Permanently,First Test Thread Group 1-4,text,true,,276,111,5,5,http://yahoo.com/,625,0,320
+1622521400180,941,HTTP Request for Yahoo-1,301,Moved Permanently,First Test Thread Group 1-4,text,true,,546,111,5,5,https://yahoo.com/,941,0,626
+1622521401122,852,HTTP Request for Yahoo-2,200,OK,First Test Thread Group 1-4,text,true,,156703,115,5,5,https://www.yahoo.com/,656,0,139
+1622521399766,2381,HTTP Request for Yahoo,200,OK,First Test Thread Group 1-5,text,true,,157530,337,5,5,https://www.yahoo.com/,668,0,315
+1622521399766,668,HTTP Request for Yahoo-0,301,Moved Permanently,First Test Thread Group 1-5,text,true,,276,111,5,5,http://yahoo.com/,668,0,315
+1622521400435,968,HTTP Request for Yahoo-1,301,Moved Permanently,First Test Thread Group 1-5,text,true,,546,111,5,5,https://yahoo.com/,968,0,665
+1622521401405,742,HTTP Request for Yahoo-2,200,OK,First Test Thread Group 1-5,text,true,,156708,115,5,5,https://www.yahoo.com/,546,0,151
+1622521399238,3888,HTTP Request for Yahoo,200,OK,First Test Thread Group 1-2,text,true,,102808,337,5,5,https://www.yahoo.com/,667,0,363
+1622521399238,667,HTTP Request for Yahoo-0,301,Moved Permanently,First Test Thread Group 1-2,text,true,,276,111,5,5,http://yahoo.com/,667,0,363
+1622521399906,966,HTTP Request for Yahoo-1,301,Moved Permanently,First Test Thread Group 1-2,text,true,,546,111,5,5,https://yahoo.com/,966,0,652
+1622521400872,2254,HTTP Request for Yahoo-2,200,OK,First Test Thread Group 1-2,text,true,,101986,115,5,5,https://www.yahoo.com/,2067,0,218
+1622521402249,1230,HTTP Request for Yahoo,200,OK,First Test Thread Group 1-3,text,true,,157475,337,5,5,https://www.yahoo.com/,301,0,0
+1622521402249,301,HTTP Request for Yahoo-0,301,Moved Permanently,First Test Thread Group 1-3,text,true,,276,111,5,5,http://yahoo.com/,301,0,0
+1622521402551,304,HTTP Request for Yahoo-1,301,Moved Permanently,First Test Thread Group 1-3,text,true,,546,111,5,5,https://yahoo.com/,304,0,0
+1622521402855,624,HTTP Request for Yahoo-2,200,OK,First Test Thread Group 1-3,text,true,,156653,115,5,5,https://www.yahoo.com/,435,0,0
+1622521402204,1309,HTTP Request for Yahoo,200,OK,First Test Thread Group 1-1,text,true,,157531,337,5,5,https://www.yahoo.com/,304,0,0
+1622521402204,304,HTTP Request for Yahoo-0,301,Moved Permanently,First Test Thread Group 1-1,text,true,,276,111,5,5,http://yahoo.com/,304,0,0
+1622521402508,329,HTTP Request for Yahoo-1,301,Moved Permanently,First Test Thread Group 1-1,text,true,,546,111,5,5,https://yahoo.com/,329,0,0
+1622521402837,676,HTTP Request for Yahoo-2,200,OK,First Test Thread Group 1-1,text,true,,156709,115,5,5,https://www.yahoo.com/,485,0,0
+1622521402413,1411,HTTP Request for Yahoo,200,OK,First Test Thread Group 1-4,text,true,,155583,337,3,3,https://www.yahoo.com/,424,0,0
+1622521402413,424,HTTP Request for Yahoo-0,301,Moved Permanently,First Test Thread Group 1-4,text,true,,276,111,3,3,http://yahoo.com/,424,0,0
+1622521402837,305,HTTP Request for Yahoo-1,301,Moved Permanently,First Test Thread Group 1-4,text,true,,546,111,3,3,https://yahoo.com/,305,0,0
+1622521403143,681,HTTP Request for Yahoo-2,200,OK,First Test Thread Group 1-4,text,true,,154761,115,3,3,https://www.yahoo.com/,494,0,0
+1622521402559,1352,HTTP Request for Yahoo,200,OK,First Test Thread Group 1-5,text,true,,153256,337,2,2,https://www.yahoo.com/,317,0,0
+1622521402559,317,HTTP Request for Yahoo-0,301,Moved Permanently,First Test Thread Group 1-5,text,true,,276,111,2,2,http://yahoo.com/,317,0,0
+1622521402877,303,HTTP Request for Yahoo-1,301,Moved Permanently,First Test Thread Group 1-5,text,true,,546,111,2,2,https://yahoo.com/,302,0,0
+1622521403180,731,HTTP Request for Yahoo-2,200,OK,First Test Thread Group 1-5,text,true,,152434,115,2,2,https://www.yahoo.com/,541,0,0
+1622521403542,1245,HTTP Request for Yahoo,200,OK,First Test Thread Group 1-2,text,true,,157520,337,1,1,https://www.yahoo.com/,307,0,0
+1622521403542,307,HTTP Request for Yahoo-0,301,Moved Permanently,First Test Thread Group 1-2,text,true,,276,111,1,1,http://yahoo.com/,307,0,0
+1622521403849,307,HTTP Request for Yahoo-1,301,Moved Permanently,First Test Thread Group 1-2,text,true,,546,111,1,1,https://yahoo.com/,307,0,0
+1622521404156,631,HTTP Request for Yahoo-2,200,OK,First Test Thread Group 1-2,text,true,,156698,115,1,1,https://www.yahoo.com/,443,0,0

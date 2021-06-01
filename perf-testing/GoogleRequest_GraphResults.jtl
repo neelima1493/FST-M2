@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1622521398610,617,HTTP Request for Google,200,OK,First Test Thread Group 1-1,text,true,,16472,228,4,4,http://www.google.com/,271,0,174
+1622521398610,271,HTTP Request for Google-0,301,Moved Permanently,First Test Thread Group 1-1,text,true,,528,112,4,4,http://google.com/,271,0,174
+1622521398882,345,HTTP Request for Google-1,200,OK,First Test Thread Group 1-1,text,true,,15944,116,4,4,http://www.google.com/,314,0,181
+1622521398835,401,HTTP Request for Google,200,OK,First Test Thread Group 1-2,text,true,,16496,228,4,4,http://www.google.com/,132,0,35
+1622521398835,132,HTTP Request for Google-0,301,Moved Permanently,First Test Thread Group 1-2,text,true,,528,112,4,4,http://google.com/,132,0,35
+1622521398968,268,HTTP Request for Google-1,200,OK,First Test Thread Group 1-2,text,true,,15968,116,4,4,http://www.google.com/,238,0,95
+1622521399022,336,HTTP Request for Google,200,OK,First Test Thread Group 1-3,text,true,,16469,228,4,4,http://www.google.com/,131,0,35
+1622521399022,131,HTTP Request for Google-0,301,Moved Permanently,First Test Thread Group 1-3,text,true,,528,112,4,4,http://google.com/,131,0,35
+1622521399154,204,HTTP Request for Google-1,200,OK,First Test Thread Group 1-3,text,true,,15941,116,4,4,http://www.google.com/,173,0,32
+1622521399215,338,HTTP Request for Google,200,OK,First Test Thread Group 1-4,text,true,,16521,228,5,5,http://www.google.com/,133,0,34
+1622521399215,133,HTTP Request for Google-0,301,Moved Permanently,First Test Thread Group 1-4,text,true,,528,112,5,5,http://google.com/,133,0,34
+1622521399349,204,HTTP Request for Google-1,200,OK,First Test Thread Group 1-4,text,true,,15993,116,5,5,http://www.google.com/,172,0,34
+1622521399427,337,HTTP Request for Google,200,OK,First Test Thread Group 1-5,text,true,,16467,228,5,5,http://www.google.com/,129,0,33
+1622521399427,129,HTTP Request for Google-0,301,Moved Permanently,First Test Thread Group 1-5,text,true,,528,112,5,5,http://google.com/,129,0,33
+1622521399557,207,HTTP Request for Google-1,200,OK,First Test Thread Group 1-5,text,true,,15939,116,5,5,http://www.google.com/,173,0,38
+1622521401958,246,HTTP Request for Google,200,OK,First Test Thread Group 1-1,text,true,,16473,228,5,5,http://www.google.com/,96,0,0
+1622521401958,96,HTTP Request for Google-0,301,Moved Permanently,First Test Thread Group 1-1,text,true,,528,112,5,5,http://google.com/,96,0,0
+1622521402055,149,HTTP Request for Google-1,200,OK,First Test Thread Group 1-1,text,true,,15945,116,5,5,http://www.google.com/,142,0,0
+1622521402005,243,HTTP Request for Google,200,OK,First Test Thread Group 1-3,text,true,,16486,228,5,5,http://www.google.com/,98,0,0
+1622521402005,98,HTTP Request for Google-0,301,Moved Permanently,First Test Thread Group 1-3,text,true,,528,112,5,5,http://google.com/,98,0,0
+1622521402103,145,HTTP Request for Google-1,200,OK,First Test Thread Group 1-3,text,true,,15958,116,5,5,http://www.google.com/,141,0,0
+1622521402140,273,HTTP Request for Google,200,OK,First Test Thread Group 1-4,text,true,,16495,228,5,5,http://www.google.com/,98,0,0
+1622521402140,98,HTTP Request for Google-0,301,Moved Permanently,First Test Thread Group 1-4,text,true,,528,112,5,5,http://google.com/,98,0,0
+1622521402238,175,HTTP Request for Google-1,200,OK,First Test Thread Group 1-4,text,true,,15967,116,5,5,http://www.google.com/,174,0,0
+1622521402302,256,HTTP Request for Google,200,OK,First Test Thread Group 1-5,text,true,,16504,228,5,5,http://www.google.com/,96,0,0
+1622521402302,96,HTTP Request for Google-0,301,Moved Permanently,First Test Thread Group 1-5,text,true,,528,112,5,5,http://google.com/,96,0,0
+1622521402399,159,HTTP Request for Google-1,200,OK,First Test Thread Group 1-5,text,true,,15976,116,5,5,http://www.google.com/,151,0,0
+1622521403292,249,HTTP Request for Google,200,OK,First Test Thread Group 1-2,text,true,,16459,228,4,4,http://www.google.com/,98,0,0
+1622521403292,98,HTTP Request for Google-0,301,Moved Permanently,First Test Thread Group 1-2,text,true,,528,112,4,4,http://google.com/,98,0,0
+1622521403390,151,HTTP Request for Google-1,200,OK,First Test Thread Group 1-2,text,true,,15931,116,4,4,http://www.google.com/,149,0,0
